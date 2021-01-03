@@ -1,7 +1,7 @@
 
 ### Languages
 
-[![C#](https://img.shields.io/badge/-Csharp-000?&logo=csharp)](https://github.com/adamalston?tab=repositories&q=&type=&language=ruby)
+[![C#](https://img.shields.io/badge/-C%23-000?&logo=C%23)](https://github.com/adamalston?tab=repositories&q=&type=&language=ruby)
 [![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=ruby)](https://github.com/adamalston?tab=repositories&q=&type=&language=ruby)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
