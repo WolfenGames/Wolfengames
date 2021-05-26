@@ -1,7 +1,7 @@
 
 ### Languages
 
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg)](https://github.com/WolfenGames?tab=repositories&q=&type=&language=c%23)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/WolfenGames?tab=repositories&q=&type=&language=c%23)
 [![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=ruby)](https://github.com/WolfenGames?tab=repositories&q=&type=&language=ruby)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/WolfenGames?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/WolfenGames?tab=repositories&q=&type=&language=javascript)
